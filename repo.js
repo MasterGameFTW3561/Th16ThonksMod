@@ -1,9 +1,9 @@
 {
 	"contact": "mastergame3561@gmail.com",
-	"id": "Th16ThonksMod",
+	"id": "TouhouThonksMod",
 	"patches": {},
 	"servers": [
-		"C:\\Users\\User\\Documents\\thpatch\\Th16ThonksMod"
+		"https://github.com/MasterGameFTW3561/Th16ThonksMod"
 	],
 	"title": "Thinking"
 }
