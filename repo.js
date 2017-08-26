@@ -1,9 +1,11 @@
 {
 	"contact": "mastergame3561@gmail.com",
 	"id": "TouhouThonksMod",
-	"patches": {},
+	"patches": {
+		"Thonks": "Thonks mode by MasterGameFTW3561"
+	},
 	"servers": [
-		"https://github.com/MasterGameFTW3561/Th16ThonksMod"
+		"https://raw.githubusercontent.com/MasterGameFTW3561/Th16ThonksMod/master"
 	],
 	"title": "Thinking"
 }
