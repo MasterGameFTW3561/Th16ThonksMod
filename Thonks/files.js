@@ -24,7 +24,16 @@
 	"th07/data/face/st08/face_08_00.png": 639644656,
 	"th07/data/face/st08/face_08_01.png": 639644656,
 	"th07/data/face/st08/face_08_02.png": 639644656,
-	"th07/data/player00/player00.png": 3144213124,
+	"th07/data/player00/player00.png": 2281138283,
 	"th07/data/player00/player01.png": 1370365692,
-	"th07/data/player00/player02.png": 3585328348
+	"th07/data/player00/player02.png": 3585328348,
+	"th07/data/stgenm/stg1enm.png": 711698327,
+	"th07/data/stgenm/stg2enm.png": 2454751288,
+	"th07/data/stgenm/stg3enm.png": 2211230155,
+	"th07/data/stgenm/stg4enm.png": 527871571,
+	"th07/data/stgenm/stg5enm.png": 3630844308,
+	"th07/data/stgenm/stg6enm.png": 3630844308,
+	"th07/data/stgenm/stg6enm2.png": 1697712409,
+	"th07/data/stgenm/stg7enm.png": 3387960063,
+	"th07/data/stgenm/stg8enm.png": 1849688374
 }
